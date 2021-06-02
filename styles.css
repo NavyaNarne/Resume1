@@ -1,0 +1,111 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+hr{
+    margin-top: 1%;
+    border-style: solid;
+    color:#39a9cb;
+    
+}
+#desc{
+    clear: left;
+    font-weight:bold ;
+    margin-top: 4%;
+    margin-left: 3%;
+}
+.top {
+	padding: 25px 35px ;
+	
+    font-family: 'Ubuntu', sans-serif;
+}
+h2{
+    color: #39a9cb;
+    
+}
+#photo {
+    width: 12%;
+	float: left;
+	margin-right: 30px;
+}
+.image_cropper {
+	vertical-align: middle;
+	width: 150px;
+    height: 150px;
+  
+}
+
+
+#name h1 {
+	font-size: 2.5em;
+	font-weight: 500;
+	
+
+} 	
+
+#name h2 {
+	font-size: 1.2em;
+	
+	font-weight:bold;
+    color: #39a9cb;
+	
+}
+#name {
+	float: left;
+}
+.contactDetails {
+	float: right;
+}
+
+#contactDetails ul {
+	list-style-type: none;
+	font-size: 1em;
+	
+	text-align:right;
+}
+#contactDetails ul li {
+	margin-bottom: 3px;
+	color:#444;
+}
+.mydetails{
+   
+    padding-left: 3%;
+    line-height:5px;
+}
+.my{
+    padding-left: 3%;
+    line-height:5px;
+}
+
+.location{
+   float: right;
+    font-style: italic;
+    
+    
+}
+.title1{
+    margin-top: 3%;
+    
+}
+/*.Certificates{
+  /* float: right;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right:4%;
+    position: absolute;
+    right: 0px;
+    line-height: 5px;
+}
+.proj{
+   float: left;
+   position: absolute;
+   left: 0;
+   
+    margin-top: 2%;
+}*/
+.skill{
+    padding-left: 3%;
+}
+.hobbies{
+    padding-left: 3%;
+}
